@@ -41,3 +41,8 @@ Account
 
 
 More to follow...
+
+
+## Tech Stack
+Developing locally on laptop and testing our Azure APIM with hosting via Az - target is .net5 (core) which is quite new for Az hosting, not quite configured yet but should be working at some point - https://miniaccounts20201112.azurewebsites.net/swagger
+
