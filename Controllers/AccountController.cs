@@ -12,8 +12,6 @@ namespace miniAccounts.Controllers
     [Route("[controller]")]
     public class AccountsController : ControllerBase
     {
-        
-
         private readonly ILogger<AccountsController> _logger;
 
         public AccountsController(ILogger<AccountsController> logger)

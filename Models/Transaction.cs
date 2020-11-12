@@ -13,5 +13,6 @@ namespace miniAccounts.Models
         public decimal Debit { get; set; } = 0;
         public DateTime? BookedOn { get; set; }
         public DateTime? ValueOn { get; set; }
+        public string Ref { get; set; } = "";
     }
 }
